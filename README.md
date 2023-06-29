@@ -10,7 +10,7 @@ go run main.go
 ```bash
 go build
 ```
-## To run unit testing
+## To run unit test
 ```bash
 go test -v
 ```
